@@ -9,10 +9,8 @@ Once the model is trained accuracy and loss curves are plotted, and mini-batch t
 
 Achieved 75-80% accurate label classification for galaxy images, correctly labeling galaxy shapes out of 5 possible types.
 
+## Example Galaxy
 ![Screenshot 2025-06-01 031604](https://github.com/user-attachments/assets/100471d7-b3b5-40d8-bf3a-a42ecd9787b9)
 
-Example galaxy image
-
+## Training Results
 ![Training Accuracy](https://github.com/user-attachments/assets/46876690-4a55-4713-b398-a585a775057f)
-
-Training results
