@@ -8,3 +8,5 @@ Implements a forward pass, loss function, and gradient‐descent updates using j
 Once the model is trained accuracy and loss curves are plotted, and mini-batch training using jax.vmap is explored.
 
 Achieved 75-80% accurate label classification for galaxy images, correctly labeling galaxy shapes out of 5 possible types.
+
+![Training Accuracy](https://github.com/user-attachments/assets/46876690-4a55-4713-b398-a585a775057f)
