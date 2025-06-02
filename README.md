@@ -14,3 +14,4 @@ Achieved 75-80% accurate label classification for galaxy images, correctly label
 
 ## Training Results
 ![Training Accuracy](https://github.com/user-attachments/assets/46876690-4a55-4713-b398-a585a775057f)
+![Accuracy](https://github.com/user-attachments/assets/bb3518f1-ca69-444b-8ae0-698e62486a5b)
