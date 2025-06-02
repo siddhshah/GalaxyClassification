@@ -1,4 +1,4 @@
-# GalaxyClassification
+# Galaxy Classification
 JAX-based deep neural network to distinguish between different images of galaxies from the Sloan Digital Sky Survey (SDSS) dataset.
 
 Downloads and unpacks a compressed galaxy dataset (dataG.pkl.gz), visualizes raw train/test images and labels, and defines network parameters (W1, b1, W2, b2).
